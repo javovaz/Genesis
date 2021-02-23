@@ -1,43 +1,26 @@
-# Genesis
+# Aquí empieza todo
 
-_Aquí comienza todo. Primer repo, primer README.md_
+_Gracias por compartir este momento. 2021 tendrá muchas novedades_
 
-## Vamos! 🚀
+## Vamos! 🐣🚀🌐
 
-_Lorem ipsum._
+_La meta es clara_
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+![Cat](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
 
+**Ser como el gatito**.
 
-### Pre-requisitos 📋
+## Ejecutando muchas muchas pruebas ⚙️
 
-_Pochoclos, y cosas ricas_
+_Random_
 
-```
-Da un ejemplo
-```
+_Random_
 
-### Instalación 🔧
-
-_Para visualizar correctamente este README.md necesitarás ojos_
-
-_Y tenerlos abiertos_
-
-```
-Da un ejemplo
-```
-
-_Recuerda parpadear, los ojos se irritan_
-
-```
-hasta finalizar
-```
+_Random_
 
 _Terminado_
 
-## Ejecutando muchas pruebas ⚙️
-
-## Licencia 📄
+### Licencia 📄
 
 Este proyecto está bajo la Licencia GNU General Public License v3.0 - mira el archivo [LICENSE.md](https://github.com/javovaz/Genesis/blob/main/LICENSE) para detalles
 
